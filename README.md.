@@ -1,0 +1,31 @@
+# GCC Financial Planning & Analysis Dashboard
+
+## Overview
+An interactive Power BI project analysing financial performance, budget variance, and profitability across GCC entities.
+
+## Tools Used
+- Microsoft Power BI
+- DAX measures
+- Microsoft Excel
+- Data modelling and visualisation
+
+## Dashboard Pages
+1. Executive Summary
+2. P&L Variance Analysis
+3. Entity & Department Analysis
+4. Financial Insights & Recommendations
+
+## Key Findings
+- Operations had the largest unfavourable budget variance in the analysed dataset.
+- Oman had the highest EBITDA margin among the entities.
+
+## Business Recommendations
+- Investigate the drivers of unfavourable variance in Operations.
+- Compare entity-level cost structures and profitability.
+- Monitor budget performance and margins regularly.
+
+## Project File
+Open `GCC_Financial_Analysis_PowerBI.pbix` in Power BI Desktop to explore the report.
+
+## Disclaimer
+This project is for learning and portfolio purposes. Findings reflect the dataset used in the report.
