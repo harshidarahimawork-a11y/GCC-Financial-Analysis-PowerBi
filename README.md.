@@ -29,3 +29,19 @@ Open `GCC_Financial_Analysis_PowerBI.pbix` in Power BI Desktop to explore the re
 
 ## Disclaimer
 This project is for learning and portfolio purposes. Findings reflect the dataset used in the report.
+
+Screenshot section
+ Copy
+## Dashboard Preview
+
+### 1. Executive Summary
+![Executive Summary](Executive_Summary.png)
+
+### 2. P&L Variance Analysis
+![P&L Variance Analysis](PL_Variance_Analysis.png)
+
+### 3. Entity & Department Analysis
+![Entity & Department Analysis](Entity_Department_Analysis.png)
+
+### 4. Financial Insights & Recommendations
+![Financial Insights](Financial_Insights.png)
